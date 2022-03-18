@@ -11,7 +11,6 @@ public class ConversionToCodeMorseService {
         String[] numbersMorseCode = {
                 "-----", ".----", "..---", "...--", "....-", ".....", "-....", "--...", "---..", "----."
         };
-        
 
         String morse = "";
 
